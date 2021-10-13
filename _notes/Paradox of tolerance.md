@@ -5,8 +5,6 @@ tags:
 links:
 ---
 
-# Paradox of tolerance
-
 If a society is tolerant without limit, its ability to be tolerant is eventually seized or destroyed by the intolerant.
 
 In order to maintain a tolerant society, the society must be intolerant of intolerance.

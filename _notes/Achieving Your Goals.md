@@ -5,8 +5,6 @@ tags:
 links:
 ---
 
-# Achieving Your Goals
-
 Goals
 Backwards planning for goals
 

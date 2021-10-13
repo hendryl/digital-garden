@@ -5,8 +5,6 @@ tags:
 links:
 ---
 
-# MT Goals
-
 M = Measurable
 T = Timed
 

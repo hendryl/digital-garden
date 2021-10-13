@@ -5,7 +5,6 @@ tags:
 links:
 ---
 
-# Efficiency vs Productivity
 Automation almost always improves productivity in one part of the system. But does it always improve _the whole system_? Nope.
 
 Just because one part of the system is faster doesn't mean the whole system is faster and more efficient. This is often difficult to realize.

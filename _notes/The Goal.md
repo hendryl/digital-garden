@@ -5,10 +5,6 @@ tags:
 links:
 ---
 
-# The Goal
-
-## Goal
-
 What is the goal of your product? The goal of your job? _Your_ goal?
 
 When you know _why_ you're doing what you're doing, you can know if you're productive.

@@ -5,8 +5,6 @@ tags:
 links:
 ---
 
-# Deductive and non-deductive arguments
-
 A deductive argument is an argument for which the premises are offered to provide logically conclusive support for its conclusion. This argument has both a true conclusion as well as true premise.
 
  A non-deductive argument is an argument for which the premises are offered to provide probable, *but not conclusive*, support for its conclusions.

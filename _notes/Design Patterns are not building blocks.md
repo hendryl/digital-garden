@@ -5,8 +5,6 @@ tags:
 links:
 ---
 
-# Design Patterns are not building blocks
-
 Pattern is something that you use when you find that you've got a problem - you need some flexibility that the pattern provides, or that you've stumbled across when you are making a little language in the config file and you say "wait a moment, stop, this is its own interpreter that I'm writing - this is a known and solved problem, use an [Interpreter pattern](http://en.wikipedia.org/wiki/Interpreter_pattern)."
  
  But note there, that it's something that you _discover_ in your code, not something you start out with.

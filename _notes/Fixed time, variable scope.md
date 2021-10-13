@@ -5,8 +5,6 @@ tags:
 links:
 ---
 
-# Fixed time, variable scope
-
 A similar concept to [[MT Goals]]. When trying to finish something, set a deadline. 
 
 With a deadline, you'll be able to make decisions to cut or add to the scope based on whether it's necessary or not.

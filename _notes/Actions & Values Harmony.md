@@ -5,8 +5,6 @@ tags:
 links:
 ---
 
-# Actions & Values Harmony
-
 When your actions are out of alignment with your values, you can experience fear, guilt, frustration and emotional imbalance. 
 
 Fortunately, you can get rid of those negative, unwanted feelings. You can either: 

@@ -5,8 +5,6 @@ tags:
 links:
 ---
 
-# Reversible Decisions
-
 Most decisions, like 90% of them, are reversible. From those 90%, most of them are not worth thinking about due to [[Law of triviality]].
 
 From those 90% that matter, we should decide after knowing 70-80% of the information. Getting more information takes too much time (See [[Pareto Principle]]), and might cause [[Analysis paralysis]].

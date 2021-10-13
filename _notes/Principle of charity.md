@@ -5,7 +5,6 @@ tags:
 links:
 ---
 
-# Principle of charity
 Treat other people as intelligent people. If you treat people as being intelligent, you will do a better job at evaluating their arguments.
 
 ## Why be so nice?

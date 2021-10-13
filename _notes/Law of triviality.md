@@ -5,5 +5,4 @@ tags:
 links:
 ---
 
-# Law of triviality
- People within an organization usually give disproportionate weight to trivial issues.
+People within an organization usually give disproportionate weight to trivial issues.

@@ -5,8 +5,6 @@ tags:
 links:
 ---
 
-# My Information Processing Workflow
-
 There is too much information out there. We have to process it, so only what matters is saved. 
 
 **World**

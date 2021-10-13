@@ -5,8 +5,6 @@ tags:
 links:
 ---
 
-# What Goals To Have
-
 [[The Goal]] should always be something that is productive for you / your department / your company.
 
 Tips to figure out what goals to have:

@@ -5,8 +5,6 @@ tags:
 links:
 ---
 
-# OODA loop
-
  _observe–orient–decide–act_
  
  

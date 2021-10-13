@@ -5,7 +5,5 @@ tags:
 links:
 ---
 
-# Pareto Principle
-
 The _Pareto Principle_ states that 80% of consequences come from 20% of the causes.
 

@@ -5,8 +5,6 @@ tags:
 links:
 ---
 
-# Stock and Flow
-
 There are two kinds of quantities in the world. Stock is a static value: money in the bank or trees in the forest. Flow is a rate of change: fifteen dollars an hour or three thousand toothpicks a day.
 
 Stock and flow is a useful metaphor for media in the 21st century. Here’s what I mean:

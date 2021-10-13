@@ -5,5 +5,4 @@ tags:
 links:
 ---
 
-# Murphy's Law
 Anything that can go wrong will go wrong.
